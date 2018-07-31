@@ -1,2 +1,2 @@
 # hello-world
-just a new repository 
+just a new repository for a new start
